@@ -36,7 +36,7 @@ A mesmerizing interactive 3D particle system built with Three.js and MediaPipe. 
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/interactive-particles.git
+    git clone https://github.com/ToBeWin/interactive-particles.git
     cd interactive-particles
     ```
 
