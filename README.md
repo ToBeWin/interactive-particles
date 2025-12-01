@@ -112,7 +112,7 @@ This project is open source and available under the [MIT License](LICENSE).
 1.  克隆仓库：
 
     ```bash
-    git clone https://github.com/yourusername/interactive-particles.git
+    git clone https://github.com/ToBeWin/interactive-particles.git
     cd interactive-particles
     ```
 
